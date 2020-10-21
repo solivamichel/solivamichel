@@ -15,8 +15,8 @@ desenvolvimento.
 - 🎓 Java e Orientação a Objetos - (Caelum) - 2020
 
 ## :octocat:  Principais Habilidades
-- [x] Java | Java EE
-- [x] Spring Framework | Hibernate 
+- [x] Java
+- [x] Spring Framework | Spring Boot | Spring Data | Rest | 
 - [x] Maven | Gradle 
 - [x] Tomcat 
 - [x] HTML | CSS
