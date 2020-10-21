@@ -20,7 +20,7 @@ desenvolvimento.
 - [x] Maven | Gradle 
 - [x] Tomcat 
 - [x] HTML | CSS
-- [x] MySQL | H2
+- [x] MySQL | H2 | Flyway
 - [x] Git
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
 - [x] Scrum
