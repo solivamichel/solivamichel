@@ -14,6 +14,10 @@ desenvolvimento.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas - (Estacio - Universidade Estácio de Sá) - 2020
 - 🎓 Java e Orientação a Objetos - (Caelum) - 2020
 
+## 💬 Estatísticas
+
+![Michel Soliva GitHub Stats](https://github-readme-stats.vercel.app/api?username=solivamichel&show_icons=true)
+
 ## :octocat:  Principais Habilidades
 - [x] Java
 - [x] Spring Framework | Spring Boot | Spring Data | Rest | 
