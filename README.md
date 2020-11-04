@@ -12,7 +12,9 @@ desenvolvimento.
 
 ## Formações
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas - (Estacio - Universidade Estácio de Sá) - 2020
-- 🎓 Java e Orientação a Objetos - (Caelum) - 2020
+- 🎓 Spring Boot Api Rest: Construa uma API - ( Alura ) - 2020
+- 🎓 Java e Orientação a Objetos - ( Caelum ) - 2020
+- 🎓 Logica de Programação com Javascript - ( Caelum ) - 2019
 
 ## 💬 Estatísticas
 
@@ -20,7 +22,7 @@ desenvolvimento.
 
 ## :octocat:  Principais Habilidades
 - [x] Java
-- [x] Spring Framework | Spring Boot | Spring Data | Rest | 
+- [x] Spring Framework | Spring Boot | Spring Data | Rest
 - [x] Maven | Gradle 
 - [x] Tomcat 
 - [x] HTML | CSS
